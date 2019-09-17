@@ -1,4 +1,4 @@
-# vue-example-1
+# Vue + firebase
 
 > A Vue.js project
 
